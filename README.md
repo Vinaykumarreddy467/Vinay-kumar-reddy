@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinaykumarreddy467
+- 👋 Hi, I’m VINAY KUMAR REDDY
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning web designing
 - 💞️ I’m looking to collaborate on html and css
